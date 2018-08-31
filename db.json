@@ -1,0 +1,21 @@
+{
+    "funcionarios" : [
+        {
+            "id" : 1,
+            "nome" : "Miguel",
+            "telefone" : 3335556,
+            "setor" : {
+                "id" : 1,
+                "nome" : "Administrativo"
+            }
+        }
+    ],
+
+    "setores" : [
+        {
+            "id" : 1,
+            "nome" : "Administrativo"
+        }
+    ]
+
+}
